@@ -18,7 +18,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 
 ## Useage
 
-More API document please visit [NLexch API](https://www.nlexch.com/documents/api_v2)
+More API document please visit [NLexch API](https://www.nlexch.com/documents/api-v2)
 
 ```
 # Public API
